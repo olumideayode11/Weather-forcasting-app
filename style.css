@@ -1,0 +1,46 @@
+.weather{
+    background: linear-gradient(204deg, #5b548a, #00feba);
+}
+
+#search {
+    background-color: rgb(211, 242, 227);
+    border-radius: 15px 0px 0px 15px
+    /* border-color:gray; */
+
+}
+.btn{
+    background-color: rgb(253, 255, 254);
+    color:  #00feba;
+    border-radius: 0px 15px 15px 0px;
+   
+    
+  border-style: none;
+}
+::placeholder{
+    font-size: small;
+}
+ .all{
+    display:none;
+} 
+.error{
+    margin-left: 10px;
+    font-size: 13px;
+    margin-top: 4px;
+    color: rgb(224, 233, 241);
+    display: none;
+}
+ div img{
+    width: 18px;
+    height:4vh ;
+    
+}
+.every{
+    background: linear-gradient(204deg, #3d3b47, #036d51);
+   
+    width: 400px;
+
+ border-radius: 2rem;
+  
+
+ padding: 4rem;
+}
